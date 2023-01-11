@@ -1,0 +1,8 @@
+Flask==2.0.2
+mysql-connector-python
+flask_sqlalchemy
+mysqlclient
+PyMySQL
+pytest
+httpx
+behave
